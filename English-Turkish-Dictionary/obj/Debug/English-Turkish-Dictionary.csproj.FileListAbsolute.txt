@@ -1,0 +1,11 @@
+C:\Users\gundo\OneDrive\Masaüstü\English-Turkish-Dictionary\English-Turkish-Dictionary\bin\Debug\English-Turkish-Dictionary.exe.config
+C:\Users\gundo\OneDrive\Masaüstü\English-Turkish-Dictionary\English-Turkish-Dictionary\bin\Debug\English-Turkish-Dictionary.exe
+C:\Users\gundo\OneDrive\Masaüstü\English-Turkish-Dictionary\English-Turkish-Dictionary\bin\Debug\English-Turkish-Dictionary.pdb
+C:\Users\gundo\OneDrive\Masaüstü\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English-Turkish-Dictionary.csproj.AssemblyReference.cache
+C:\Users\gundo\OneDrive\Masaüstü\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English-Turkish-Dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\gundo\OneDrive\Masaüstü\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English_Turkish_Dictionary.Form1.resources
+C:\Users\gundo\OneDrive\Masaüstü\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English_Turkish_Dictionary.Properties.Resources.resources
+C:\Users\gundo\OneDrive\Masaüstü\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English-Turkish-Dictionary.csproj.GenerateResource.cache
+C:\Users\gundo\OneDrive\Masaüstü\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English-Turkish-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\gundo\OneDrive\Masaüstü\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English-Turkish-Dictionary.exe
+C:\Users\gundo\OneDrive\Masaüstü\English-Turkish-Dictionary\English-Turkish-Dictionary\obj\Debug\English-Turkish-Dictionary.pdb
